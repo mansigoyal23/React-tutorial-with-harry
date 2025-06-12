@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mansigoyal23/React-tutorial-with-harry/static/css/main.dc4d6ff2.css",
+    "main.js": "/mansigoyal23/React-tutorial-with-harry/static/js/main.86a180a8.js",
+    "static/js/453.ed3810f9.chunk.js": "/mansigoyal23/React-tutorial-with-harry/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/mansigoyal23/React-tutorial-with-harry/index.html",
+    "main.dc4d6ff2.css.map": "/mansigoyal23/React-tutorial-with-harry/static/css/main.dc4d6ff2.css.map",
+    "main.86a180a8.js.map": "/mansigoyal23/React-tutorial-with-harry/static/js/main.86a180a8.js.map",
+    "453.ed3810f9.chunk.js.map": "/mansigoyal23/React-tutorial-with-harry/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.86a180a8.js"
+  ]
+}
